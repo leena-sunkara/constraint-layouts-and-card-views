@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConstraintLayoutWe</string>
+    <string name="choose_a_daily_goal">Choose a daily goal</string>
+    <string name="casual">Casual</string>
+    <string name="steady">Steady</string>
+    <string name="_25">25</string>
+    <string name="_13">13</string>
+    <string name="back_arrow">back_arrow</string>
+</resources>
